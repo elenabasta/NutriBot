@@ -11,4 +11,5 @@
 4. NutriBot will analyse your query and, using the data in its database, deliver pertinent answers.
 5. You can close the application window or type "exit" or "quit" in the input area to end the chat.
 
-
+# Contributing
+Contributions to NutriBot are welcome! If you have any ideas for new features, improvements, or bug fixes, feel free to submit a pull request or open an issue on GitHub.
